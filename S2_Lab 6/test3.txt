@@ -1,0 +1,6 @@
+position 50 100
+loop 10
+line 0 -80
+move 10 80
+end
+
